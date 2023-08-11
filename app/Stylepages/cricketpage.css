@@ -1,0 +1,14 @@
+.Cpage{
+    margin-top: 100px;
+}
+.mb-3{
+    height: 100px;
+    margin-top: 10px;
+    transition: all ease 0.5s;
+}
+.img-fluid{
+    height: 100px;
+}
+.mb-3:hover{
+    scale: 1.05;
+}
